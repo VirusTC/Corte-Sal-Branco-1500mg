@@ -29,6 +29,9 @@ Inflammation alters local thermodynamics, causing localized heat retention due t
 -   Kinetic Regulation: The active chemical constituents interact with endogenous pyrogens and local vascular pathways to normalize blood flow velocity through capillary beds.
 -   The Result: By restoring standard fluid dynamics and capillary diameter, the body dissipates trapped thermal energy more efficiently. This normalizes local tissue temperature and reduces the throbbing kinetic pressure exerted on surrounding nerve networks.
 
+References
+----------
+
 Because **"Corte Sal Branco"** is the botanical raw material *Salix alba*, its chemical mechanisms are documented under its active therapeutic compound **salicin** and its primary active in vivo metabolite, **salicylic acid**.
 
 1\. References for the Chemical Mechanism: Enzymatic Inhibition
